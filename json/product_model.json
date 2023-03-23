@@ -1,0 +1,79 @@
+{
+    "total_size": 6,
+    "type_id": 2,
+    "offset": 0,
+    "products": [
+        {
+            "id": 1,
+            "name": "Nutrition fruits mails in china",
+            "discription": "Chinese people in general are not as concerned about nutrition as Western culture. They are more concerned with the food’s texture, flavor, color, and aroma. These are the crucial points for good Chinese cooking. Chinese daily meals consist of four food groups: grains, vegetables, fruit, and meat. Because of lactose intolerance, Chinese do not consume large amounts of dairy products. Instead, Chinese substitute these with soymilk and tofu, which also contain large amounts of protein and calcium. Vegetables, fruits, and meats are usually fresh. Some exceptions include preserved vegetables such as snow cabbage or mustard greens, preserved eggs, aka “thousand year old eggs” or salted and dried fish. Other exceptions include snack items such as beef jerky, cuttlefish jerky, sweet and sour preserved plums, or dehydrated mango slices. Canned or frozen foods are seldom eaten. Western desserts such as cookies, cakes, pies, and ice cream are eaten only on special occasions such as birthdays and weddings. After dinner, families usually eat seasonal fruit as dessert. Chinese desserts such as red bean soup, sweet white lotus’s seed soup, or steam papaya soup are served every so often as a special treat on a hot summer’s night.",
+            "price": 12,
+            "stars": 4,
+            "image":"https://eatigo-blog.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/21/2020/01/06124816/HQ_photographyTips_05Give-it-depth.png",
+            "location": "Canada, British Colambia",
+            "created_at": "2022-11-17 10:24:56",
+            "updated_at":"2022-03-23 3:52:20",
+            "type_id" : 2
+        },
+        {
+            "id": 2,
+            "name": "Nutrition fruits mails in china",
+            "discription": "Best Sweet Recipes After indulging in a hearty meal, you're bursting at the seams but when a lemon tart or a pretty cupcake arrives at the table - you somehow, miraculously, have room for that too. Let's be honest: we all love desserts, and who can blame us. If munching on something sweet and scrummy takes the edge of a not-so-great-day, you're not alone. When a craving hits, it's nice to get exactly what you want. So when you're hankering for a slice of pie, nothing else will do. And when you stay up all night thinking of those chocolate brownies stashed away in the refrigerator, you have to dig in! So, quit waving off the sweet cart, and seize the moment. Between chocolate cakes, scrumptious phirnis and seasonal specials, we got dessert on our minds all day long. (And this is not an overstatement.) Say yay to these gorgeous treats that come with all of the goodness and none of the fuss. Warning: Our luscious collection of quick sweet recipes is so epic, you'll definitely be tempted to eat them before you start your meal.",
+            "price": 10,
+            "stars": 5,
+            "image":"https://i.ndtvimg.com/i/2015-07/sweet-625_625x350_51438261157.jpg",
+            "location": "South Island, New Zealand",
+            "created_at": "2022-08-06 05:20:56",
+            "updated_at":"2022-11-17 10:30:20",
+            "type_id" : 2
+        },
+        {
+            "id": 3,
+            "name": "Tagliatelle al ragu alla Bolognese",
+            "discription": "A vital part of tourism is also looking out for memorable and unique eating and drinking experiences anywhere in the world. Often termed as food tourism, this pursuit is categorized under experiential travel. In present times, food stands equal to accommodation and sceneries when it comes to deciding a place to travel. Just like there are lists of best hotels to stay in and best places to visit, there should also be a food dishes list to narrow down the best items around the world. When it comes to ranking, food and drinks can be very subjective as tastes differ from person to person. Prepared with vinegared rice and a wide range of ingredients including seafood, vegetables, and sometimes fruits. Sushi tastes best when served with wasabi, pickled ginger, and soy sauce. A popular garnish for this dish is Daikon radish. The type of fish in it defines a sushi's taste. However, the vinegared rice gives the dish a tangy taste overall. Tuna, eel, and Salmon tend to have a light flavour while octopus flavoured sushi is generally strong in taste.",
+            "price": 49,
+            "stars": 3.5,
+            "image":"https://idsb.tmgrup.com.tr/ly/uploads/images/2021/01/27/88745.jpg",
+            "location": "South Island, New Zealand",
+            "created_at": "2022-03-10 03:24:56",
+            "updated_at":"2022-06-07 10:52:20",
+            "type_id" : 2
+        },
+        {
+            "id": 4,
+            "name": "Köfte",
+            "discription": "Annie Mattson, a researcher at Uppsala University told the Anadolu Agency that the king spent some years in exile in the Ottoman Empire after losing a war with the Russians and lived in Bender, Moldova for around five years.After deciding to return home, the king brought a number of Turkish specialties from Istanbul, including meatballs, coffee and a stuffed cabbage dish.Charles reigned from 1697 to 1718 and while living in Bender, then-Ottoman Sultan Ahmet III bought some Swedish women and children held by the Russians and handed them over to the Swedes, which boosted relations between the two countries. Köttbullar, known as  in Turkish, Swedish meatballs are a popular delicacy and are sold at Swedish furniture giant Ikea stores around the world.Turkish meatballs are made with ground beef and ground lamb, and also contain other ingredients such as onions, eggs, bread crumbs, parsley and seasoning.",
+            "price": 25,
+            "stars": 4,
+            "image":"https://idsb.tmgrup.com.tr/ly/uploads/images/2021/01/27/thumbs/871x871/88730.jpg",
+            "location": "Turkey",
+            "created_at": "2022-09-15 10:24:56",
+            "updated_at":"2022-10-30 3:52:20",
+            "type_id" : 2
+        },
+        {
+            "id": 5,
+            "name": "Ossobuco alla Milanese",
+            "discription": "India has a lot to contribute when it comes to cuisine and dosa is the best dish to represent that. To put it in simple terms, dosa is a type of pancake made from fermented rice batter. The dish looks like a crepe and the main ingredients are black gram and rice. Earlier, Dosa was prominent only in South India and Sri Lanka. It is now a well-known dish in India and all over the world. It is usually filled with various stuffings with potato being the main ingredient for the stuffing. Dosa is served along with chutneys and sambar (vegetable stew)India has a lot to contribute when it comes to cuisine and dosa is the best dish to represent that. To put it in simple terms, dosa is a type of pancake made from fermented rice batter. The dish looks like a crepe and the main ingredients are black gram and rice. Earlier, Dosa was prominent only in South India and Sri Lanka. It is now a well-known dish in India and all over the world. It is usually filled with various stuffings with potato being the main ingredient for the stuffing. Dosa is served along with chutneys and sambar (vegetable stew)",
+            "price": 99,
+            "stars": 5,
+            "image":"https://idsb.tmgrup.com.tr/ly/uploads/images/2021/01/27/thumbs/871x871/88736.jpg",
+            "location": "Italy",
+            "created_at": "2022-02-28 10:24:56",
+            "updated_at":"2022-02-23 3:52:20",
+            "type_id" : 2
+        },
+        {
+            "id": 6,
+            "name": "Saltibarsciai",
+            "discription": "Saltibarsciai with cardamom, cinnamon, cloves, star anise, cumin, bay leaves, nutmeg and mace, Massaman curry is a mild, relatively rich curry of Thailand. Blended with the local spices, this tangy and not too spicy curry differs from the other regular curries of the nation and for all the right reasons. Instead of including the curry leaves in the cooking process Massaman curry uses spices and aromatics like cumin, lemongrass and galangal that helps in creating a delectable base for the dish. Prepared with cardamom, cinnamon, cloves, star anise, cumin, bay leaves, nutmeg and mace, Massaman curry is a mild, relatively rich curry of Thailand. Blended with the local spices, this tangy and not too spicy curry differs from the other regular curries of the nation and for all the right reasons. Instead of including the curry leaves in the cooking process Massaman curry uses spices and aromatics like cumin, lemongrass and galangal that helps in creating a delectable base for the dish. ",
+            "price": 250,
+            "stars": 4,
+            "image":"https://eatigo-blog.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/21/2020/01/06124816/HQ_photographyTips_05Give-it-depth.png",
+            "location": "Lithuania",
+            "created_at": "2022-11-17 10:24:56",
+            "updated_at":"2022-03-23 3:52:20",
+            "type_id" : 2
+        }
+    ]
+}
